@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882454794011",
+    "firebase_url": "https://circuitronix-c0886.firebaseio.com",
+    "project_id": "circuitronix-c0886",
+    "storage_bucket": "circuitronix-c0886.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882454794011:android:0f6e2e6f2de0f48f9e0dbe",
+        "android_client_info": {
+          "package_name": "com.example.android.circuitronixsplash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882454794011-ocu7e5dndga990v2q4s04hsvj27b5tk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.circuitronixsplash",
+            "certificate_hash": "1ca1114a8d03b9dff100a911ee63f1603a32418c"
+          }
+        },
+        {
+          "client_id": "882454794011-es5me8m7gbq9p8puk0qabf3u9ugt6l4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDshFTLMwlozkToRL2v5jhDhRUgNNnEBEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882454794011-es5me8m7gbq9p8puk0qabf3u9ugt6l4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
