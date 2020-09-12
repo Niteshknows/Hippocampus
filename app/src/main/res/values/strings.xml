@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DIY projects</string>
+    <string name="projectname">projectName</string>
+    <string name="materials_required">Materials Required</string>
+    <string name="method">method</string>
+    <string name="stepslist">stepslist</string>
+</resources>
